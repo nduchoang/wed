@@ -12,8 +12,7 @@
     This is the template for wedding invitation card!
     <br />
    
-    <br />
-    <br />
+    
     
   </p>
 </p>
