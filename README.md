@@ -40,19 +40,7 @@ You can easily edit the information and deploy it simply. All information and in
 Thank you for your visit and we look forward to hearing from you!
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sauanla/wedding-invitation.svg?style=for-the-badge
-[contributors-url]: https://github.com/sauanla/wedding-invitation/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sauanla/wedding-invitation.svg?style=for-the-badge
-[forks-url]: https://github.com/sauanla/wedding-invitation/network/members
-[stars-shield]: https://img.shields.io/github/stars/sauanla/wedding-invitation.svg?style=for-the-badge
-[stars-url]: https://github.com/sauanla/wedding-invitation/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sauanla/wedding-invitation.svg?style=for-the-badge
-[issues-url]: https://github.comsauanla/wedding-invitation/issues
-[license-shield]: https://img.shields.io/github/license/sauanla/wedding-invitation.svg?style=for-the-badge
-[license-url]: https://github.com/sauanla/wedding-invitation/blob/main/LICENSE.txt
-[product-screenshot]: https://i.imgur.com/R8MzjsI.png
+
 
 ⚡ Quote: 
 **You fail because you don't believe.**
