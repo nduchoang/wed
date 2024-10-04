@@ -11,16 +11,10 @@
   <p align="center">
     This is the template for wedding invitation card!
     <br />
-    <a href="https://github.com/sauanla/wedding-invitation/wiki"><strong>Explore the docs »</strong></a>
+   
     <br />
     <br />
-    <a href="https://sal-wedding-invitation.herokuapp.com/">View Demo</a>
-    ·
-    <a href="https://github.com/sauanla/wedding-invitation/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/sauanla/wedding-invitation/issues">Request Feature</a>
-    ·
-    <a href="https://www.youtube.com/playlist?list=PLftwn3qtQFO2BTKQnC4cK60ibvydPBNh6">Youtube Tutorial</a>
+    
   </p>
 </p>
 
